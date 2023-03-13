@@ -20,8 +20,8 @@ Add a screenshot of your solution. The easiest way to do this is to use Firefox 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Peteonthebeat/Result-Summary-Component.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/Peteonthebeat/Result-Summary-Component.git)
+- Live Site URL: [Preview](https://peteonthebeat.github.io/Result-Summary-Component/)
 
 ### Built with
 
